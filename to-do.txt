@@ -1,0 +1,5 @@
+-Write conversion functions:
+	-dollars to cents
+	-gallon to liters
+	-hours to minutes
+	-feet to inches
