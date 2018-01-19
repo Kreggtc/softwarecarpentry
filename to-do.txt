@@ -3,3 +3,4 @@
 	-gallon to liters
 	-hours to minutes
 	-feet to inches
+	-Coulomb to eV
